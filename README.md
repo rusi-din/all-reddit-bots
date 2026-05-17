@@ -1,16 +1,17 @@
 # all-reddit-bots
 
-## u/RemindMeBot
+### u/RemindMeBot
+  RemindMe! 3 days "Check this thread"
 
-## u/SaveVideo (or u/DownloadVideo)
+### u/SaveVideo (or u/DownloadVideo)
 
-## u/RepostSleuthBot
+### u/RepostSleuthBot
 
-## u/PixelCounterBot
+### u/PixelCounterBot
 
-## u/AmputatorBot
+### u/AmputatorBot
 
-## u/Shakespeare-Bot
+### u/Shakespeare-Bot
 
-## u/profanitycounter
+### u/profanitycounter
 
