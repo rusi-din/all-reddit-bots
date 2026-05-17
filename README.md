@@ -11,7 +11,5 @@
 
 ### u/AmputatorBot
 
-### u/Shakespeare-Bot
-
 ### u/profanitycounter
 
